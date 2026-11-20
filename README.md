@@ -1,1 +1,2 @@
-# IO61_Storozhuk_SDA_Lab3.md
+# Лабораторна робота № 3
+
