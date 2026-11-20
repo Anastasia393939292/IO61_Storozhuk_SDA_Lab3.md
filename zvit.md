@@ -377,4 +377,11 @@ int main() {
 
 ```
 
+# Cкрін виконання
+
+<img width="1470" height="956" alt="Знімок екрана 2026-11-20 о 11 09 24" src="https://github.com/user-attachments/assets/719bbedc-06bb-4f8c-b2e2-4b2ce18c766c" />
+<img width="1470" height="956" alt="Знімок екрана 2026-11-20 о 11 09 18" src="https://github.com/user-attachments/assets/5b4cc884-65a3-41f3-972b-ba3332c3752e" />
+<img width="1470" height="956" alt="Знімок екрана 2026-11-20 о 11 08 48" src="https://github.com/user-attachments/assets/e102e787-a264-424c-9d5d-0a5303d523a4" />
+
+
 
